@@ -45,7 +45,6 @@ pipeline {
             post {
                 success {
                     archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
-                    sh 'echo "Build and packaging successful!"'
                 }
                 failure {
             

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.parabank.test</groupId>
+  <artifactId>parabank_prod</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210929065427</lastUpdated>
+  </versioning>
+</metadata>

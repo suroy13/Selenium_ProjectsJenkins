@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 31 02:25:48 EDT 2021
+opentelemetry-api-metrics-1.6.0-alpha-sources.jar>central=
+opentelemetry-api-metrics-1.6.0-alpha.jar>central=
+opentelemetry-api-metrics-1.6.0-alpha.pom>central=

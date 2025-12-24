@@ -34,6 +34,9 @@ public class JSPopUp {
 	@AfterTest
 	public void Close() throws InterruptedException {
 		driver.quit();
+		System.out.println("The Browser is Closed!");
+		System.out.println("The test is completed");
+		
 	}
 	
 }

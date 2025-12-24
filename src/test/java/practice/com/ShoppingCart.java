@@ -42,7 +42,7 @@ public class ShoppingCart {
 		System.out.println(browser + " Browser Launched for Test");
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		
 		
 	
